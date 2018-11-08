@@ -1,6 +1,6 @@
 A mobile app that 
 Users can display there products.
-Merchants can buy from it.
+Users can buy from it.
 
 
 screens :
